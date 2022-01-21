@@ -1,5 +1,13 @@
 ### Hi there 👋
 <img align="right" src="https://github.com/Hazumiran/Assets/blob/master/assets/output-onlinegiftools.gif" width=30% />
+
+
+### Quick overview
+- :octocat: GitHub stats:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Hazumiran&count_private=true&show_icons=true&theme=gotham">
+</a>
 <!--
 **Hazumiran/Hazumiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
