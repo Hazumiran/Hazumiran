@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="https://github.com/Hazumiran/Assets/blob/master/assets/Untitled%20design.gif" width=50% marginright="50px" /></a>
+<img align="right" src="https://github.com/Hazumiran/Assets/blob/master/assets/Untitled%20design.gif" width=50% marginleft="50px" /></a>
 <!--
 **Hazumiran/Hazumiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
