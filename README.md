@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://media.giphy.com/"><img align="right" src="https://i.pinimg.com/originals/ed/2e/c8/ed2ec87072fd6cc5c42149ae082b2d51.gif" width=30% alt="media giphy"/></a>
+<a href="https://media.giphy.com/"><img align="right" src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" width=30% alt="media giphy"/></a>
 <!--
 **Hazumiran/Hazumiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
