@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 <img align="right" src="https://github.com/Hazumiran/Assets/blob/master/assets/output-onlinegiftools.gif" width=30% />
+My Name is Muchamad Diaz Adhari
 
-
-### Quick overview
-- :octocat: GitHub stats:
+### Status
+- GitHub stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Hazumiran&count_private=true&show_icons=true&theme=gotham">
