@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="https://www.piskelapp.com/"><img align="right" src="https://github.com/Hazumiran/Assets/blob/master/assets/output-onlinegiftools.gif" width=30% /></a>
-My Name is Muchamad Diaz Adhari ,you can call me Diaz or Yaz can also be. I'm a front end programmer, I like to learn something new in IT world.Software engineering is my basic, from web application development to mobile development. But what I like most is being a mobile programmer. So , what you waiting for ? come on make a code , and have fun with coding😄
+My Name is Diaz ,you can call me Diaz or Yaz can also be. I'm a front end programmer, I like to learn something new in IT world.Software engineering is my basic, from web application development to mobile development. But what I like most is being a mobile programmer. So , what you waiting for ? come on make a code , and have fun with coding😄
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
